@@ -287,6 +287,8 @@ education.display();
 
 $("#google_map_html").append(googleMap);
 
+//added div for google map otherwise "h2" does not show
+
 
 
 
